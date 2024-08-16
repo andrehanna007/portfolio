@@ -5,6 +5,8 @@
 
 - Bachelor of Engineering in Mechanical Engineering: &nbsp;&nbsp;Toronto Metropolitan University (Formerly Ryerson University) - May 2022
 
+- [Project- Sensor](path/to/portfolio.pdf)
+
 ### Experience
 - MASc Graduate Researcher
   University of Toronto (September 2022 - September 2024)
