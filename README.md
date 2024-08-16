@@ -1,11 +1,9 @@
 # Mechanical Engineer Graduate
 
 ### Education
-- Master of Applied Science in Mechanical Engineering <p align="right">University of Toronto, September 2024 </p>
+- Master of Applied Science in Mechanical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Toronto-September 2024
 
-- Bachelor of Engineering in Mechanical Engineering
-Toronto Metropolitan University, May 2022
-
+- Bachelor of Engineering in Mechanical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto Metropolitan University (Formerly Ryerson University)-May 2022
 
 ### Experience
 - MASc Graduate Researcher
@@ -36,7 +34,7 @@ Canada’s Wonderland (May 2019 - August 2019)
 - Software: SolidWorks, Ansys, DaqView, 3-D Printing Software
 - Microsoft: Excel, Word, PowerPoint
 - Machining: Lathes, Drill Presses, Saws
-- Manufacturing: 3D Printing, Experimental Setups, Thermal Spray, Thermocouples, DAQ
+- Manufacturing: 3D Printing, Experimental Setups, Thermal Spray, Thermocouples, Pressure Transducers, DAQ
 
 ### Projects
 - Thesis: Design and Testing of Thermal Sprayed Sensors-Sensor Development to Measure Fluid Velocity
