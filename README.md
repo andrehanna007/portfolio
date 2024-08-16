@@ -9,25 +9,28 @@ Toronto Metropolitan University, May 2022
 
 
 ### Experience
-MASc Graduate Researcher
-University of Toronto (September 2022 - September 2024)
+- MASc Graduate Researcher
+  University of Toronto (September 2022 - September 2024)
 
-Designed and developed a velocity sensor using SolidWorks, achieving accurate calibration for velocity ranges of 0.89 - 4.4 m/s.
-Conducted experimental investigations, analyzing data with heat transfer and fluid dynamics principles using tools like Ansys, MATLAB, and DaqView.
-Authored research papers and presentations, receiving awards at multiple conferences.
-Teaching Assistant
-University of Toronto (January 2024 - May 2024)
+  - Designed and developed a velocity sensor using SolidWorks, achieving accurate calibration for velocity ranges of 0.89 - 4.4 m/s.
+  - Conducted experimental investigations, analyzing data with heat transfer and fluid dynamics principles using tools like Ansys, MATLAB, and DaqView.
+  - Authored research papers and presentations, receiving awards at multiple conferences.
 
-Assisted in course content preparation and delivery, enhancing course efficiency and student performance.
-Provided personalized support, significantly improving student understanding and reducing inquiries.
-Ride Technician
+- Teaching Assistant
+  University of Toronto (January 2024 - May 2024)
+
+  - Assisted in course content preparation and delivery, enhancing course efficiency and student performance.
+  - Provided personalized support, significantly improving student understanding and reducing inquiries.
+
+- Ride Technician
 Canada’s Wonderland (May 2019 - August 2019)
 
-Maintained and repaired amusement park rides, ensuring safety through diligent checks and repairs.
-Audio Technician
-Presentation Services Audio Visual (PSAV) (2015 - 2017)
+  - Maintained and repaired amusement park rides, ensuring safety through diligent checks and repairs.
 
-Setup and maintained audio-visual equipment, delivering high-quality service to clients.
+- Audio Technician
+  Presentation Services Audio Visual (PSAV) (2015 - 2017)
+
+  - Setup and maintained audio-visual equipment, delivering high-quality service to clients.
 
 ### Skills
 - Programming: C, MATLAB
