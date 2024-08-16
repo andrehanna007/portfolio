@@ -50,4 +50,4 @@ Designed a 15,000 US gallon process fluid storage tank, optimized for safety and
 
 - International Fine Particle Research Institute (IFPRI)<br>Award recipient for innovative research.
 
-- Dean’s List (Undergraduate)<br>Recognized for academic excellence.
+- Dean’s List (Undergraduate)<br>Recognized for academic excellence..
