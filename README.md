@@ -1,9 +1,9 @@
 # Mechanical Engineer Graduate
 
 ### Education
-- Master of Applied Science in Mechanical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Toronto-September 2024
+- Master of Applied Science in Mechanical Engineering: &nbsp;&nbsp;University of Toronto - September 2024
 
-- Bachelor of Engineering in Mechanical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto Metropolitan University (Formerly Ryerson University)-May 2022
+- Bachelor of Engineering in Mechanical Engineering: &nbsp;&nbsp;Toronto Metropolitan University (Formerly Ryerson University) - May 2022
 
 ### Experience
 - MASc Graduate Researcher
