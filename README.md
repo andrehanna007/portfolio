@@ -1,7 +1,7 @@
 # Mechanical Engineer Graduate
 
 ### Education
-- Master of Applied Science in Mechanical Engineering <div style="text-align: right">University of Toronto, September 2024</div>
+- Master of Applied Science in Mechanical Engineering <p align="right">University of Toronto, September 2024 </p>
 
 - Bachelor of Engineering in Mechanical Engineering
 Toronto Metropolitan University, May 2022
