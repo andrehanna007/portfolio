@@ -33,7 +33,7 @@ Canada’s Wonderland (May 2019 - August 2019)
   - Setup and maintained audio-visual equipment, delivering high-quality service to clients.
 
 ### Skills
-- **Programming**: C, MATLAB, Markdown 
+- **Programming**: C, MATLAB
 - **Software**: SolidWorks, Ansys, DaqView, 3-D Printing Software
 - **Microsoft**: Excel, Word, PowerPoint
 - **Machining**: Lathes, Drill Presses, Saws
