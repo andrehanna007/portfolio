@@ -1,5 +1,8 @@
 # Mechanical Engineer Graduate
 
+### Projects PDF Viewing
+- [Project: Fluid Velocity Sensor](Portfolio.pdf)
+
 ### Education
 - Master of Applied Science in Mechanical Engineering: &nbsp;&nbsp;University of Toronto - September 2024
 
