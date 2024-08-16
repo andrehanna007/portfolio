@@ -33,11 +33,11 @@ Canada’s Wonderland (May 2019 - August 2019)
   - Setup and maintained audio-visual equipment, delivering high-quality service to clients.
 
 ### Skills
-- **Programming**: C, MATLAB
+- **Programming**: C, MATLAB, Markdown 
 - **Software**: SolidWorks, Ansys, DaqView, 3-D Printing Software
 - **Microsoft**: Excel, Word, PowerPoint
 - **Machining**: Lathes, Drill Presses, Saws
-- **Manufacturing**: 3D Printing, Experimental Setups, Thermal Spray, Thermocouples, Pressure Transducers, DAQ
+- **Manufacturing**: 3D Printing, Experimental Setups, P&ID Diagrams, Thermal Spray, Thermocouples, Pressure Transducers, DAQ
 
 ### Projects
 - Thesis: Design and Testing of Thermal Sprayed Sensors-Sensor Development to Measure Fluid Velocity
