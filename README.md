@@ -30,11 +30,11 @@ Canada’s Wonderland (May 2019 - August 2019)
   - Setup and maintained audio-visual equipment, delivering high-quality service to clients.
 
 ### Skills
-- Programming: C, MATLAB
-- Software: SolidWorks, Ansys, DaqView, 3-D Printing Software
-- Microsoft: Excel, Word, PowerPoint
-- Machining: Lathes, Drill Presses, Saws
-- Manufacturing: 3D Printing, Experimental Setups, Thermal Spray, Thermocouples, Pressure Transducers, DAQ
+- **Programming**: C, MATLAB
+- **Software**: SolidWorks, Ansys, DaqView, 3-D Printing Software
+- **Microsoft**: Excel, Word, PowerPoint
+- **Machining**: Lathes, Drill Presses, Saws
+- **Manufacturing**: 3D Printing, Experimental Setups, Thermal Spray, Thermocouples, Pressure Transducers, DAQ
 
 ### Projects
 - Thesis: Design and Testing of Thermal Sprayed Sensors-Sensor Development to Measure Fluid Velocity
@@ -44,14 +44,10 @@ Developed and calibrated a thermal spray sensor to measure fluid velocity, utili
 Designed a 15,000 US gallon process fluid storage tank, optimized for safety and cost, following ASME Pressure Vessel Code standards.
 
 ### Conferences & Awards
-- International Thermal Spray Conference (ITSC)
-Presented research and published a journal paper.
+- International Thermal Spray Conference (ITSC)<br>Presented research and published a journal paper.
 
-- Canadian Society of Mechanical Engineers (CSME)
-Contributed to mechanical engineering research.
+- Canadian Society of Mechanical Engineers (CSME)<br>Contributed to mechanical engineering research.
 
-- International Fine Particle Research Institute (IFPRI)
-Award recipient for innovative research.
+- International Fine Particle Research Institute (IFPRI)<br>Award recipient for innovative research.
 
-- Dean’s List (Undergraduate)
-Recognized for academic excellence.
+- Dean’s List (Undergraduate)<br>Recognized for academic excellence.
