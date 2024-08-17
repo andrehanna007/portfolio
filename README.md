@@ -7,7 +7,7 @@
 
 ### My Projects
 - Thesis: Design and Testing of Thermal Sprayed Sensors<br>
-Developed and calibrated a thermal spray sensor to measure fluid velocity, utilizing 3D printing and advanced calibration techniques
+Developed and calibrated a thermal spray sensor to measure fluid velocity, utilizing 3D printing and applying heat transfer and fluid dynamics principles to relate the cooling effect on the sensor’s surface to its velocity
 
 - Thermal System Design containing Three Jacketed Reactors<br>
 Engineered a thermal system for three jacketed reactors to produce a pharmaceutical product, utilizing flow and P&ID diagrams, heat transfer and fluid mechanics calculations to maintain a 60°C water flow at 70 USGPM, with each reactor having its own temperature control loop and circulating pump for efficient and reliable operation
