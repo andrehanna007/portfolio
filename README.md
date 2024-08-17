@@ -1,9 +1,9 @@
 # Mechanical Engineer Graduate
 
-### Projects PDF Viewing
+### One of My Projects for Viewing
 - [Project: Fluid Velocity Sensor](Portfolio.pdf)
 
-### Projects
+### My Projects
 - Thesis:Design and Testing of Thermal Sprayed Sensors-Sensor Development to Measure Fluid Velocity<br>
 Developed and calibrated a thermal spray sensor to measure fluid velocity, utilizing 3D printing and advanced calibration techniques
 
