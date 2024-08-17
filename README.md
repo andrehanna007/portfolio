@@ -4,7 +4,7 @@
 - [Project: Fluid Velocity Sensor](Portfolio.pdf)
 
 ### My Projects
-- Thesis: Design and Testing of Thermal Sprayed Sensors<br>
+- Thesis: Design and Testing of Thermal Sprayed Sensors<br>hello
 Developed and calibrated a thermal spray sensor to measure fluid velocity, utilizing 3D printing and advanced calibration techniques
 
 - Thermal System Design containing Three Jacketed Reactors<br>
