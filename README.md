@@ -3,6 +3,19 @@
 ### Projects PDF Viewing
 - [Project: Fluid Velocity Sensor](Portfolio.pdf)
 
+### Projects
+- Thesis: Design and Testing of Thermal Sprayed Sensors-Sensor Development to Measure Fluid Velocity<br>
+Developed and calibrated a thermal spray sensor to measure fluid velocity, utilizing 3D printing and advanced calibration techniques
+
+- Thermal System Design containing Three Jacketed Reactors<br>
+Engineered a thermal system for three jacketed reactors to produce a pharmaceutical product, utilizing flow and P&ID diagrams, heat transfer and fluid mechanics calculations to maintain a 60°C water flow at 70 USGPM, with each reactor having its own temperature control loop and circulating pump for efficient and reliable operation
+
+- Fluid Storage Tank Design<br>
+Designed a 15,000 US gallon process fluid storage tank, optimized for safety and cost, following ASME Pressure Vessel Code standards
+
+- Heat Sink Design for Electronic Chip Cooling<br>
+Reduced electronic chip temperature by optimizing heat sink design using ANSYS through the integration of a finer mesh and improved fin geometry, and refining fan speed, leading to enhanced cooling efficiency in computational simulations
+
 ### Education
 - Master of Applied Science in Mechanical Engineering: &nbsp;&nbsp;University of Toronto - September 2024
 
@@ -38,19 +51,6 @@ Canada’s Wonderland (May 2019 - August 2019)
 - **Microsoft**: Excel, Word, PowerPoint
 - **Machining**: Lathes, Drill Presses, Saws
 - **Manufacturing**: 3D Printing, Experimental Setups, P&ID Diagrams, Thermal Spray, Thermocouples, Pressure Transducers, DAQ
-
-### Projects
-- Thesis: Design and Testing of Thermal Sprayed Sensors-Sensor Development to Measure Fluid Velocity
-Developed and calibrated a thermal spray sensor to measure fluid velocity, utilizing 3D printing and advanced calibration techniques
-
-- Thermal System Design containing Three Jacketed Reactors
-Engineered a thermal system for three jacketed reactors to produce a pharmaceutical product, utilizing flow and P&ID diagrams, heat transfer and fluid mechanics calculations to maintain a 60°C water flow at 70 USGPM, with each reactor having its own temperature control loop and circulating pump for efficient and reliable operation
-
-- Fluid Storage Tank Design
-Designed a 15,000 US gallon process fluid storage tank, optimized for safety and cost, following ASME Pressure Vessel Code standards
-
-- Heat Sink Design for Electronic Chip Cooling
-Reduced electronic chip temperature by optimizing heat sink design using ANSYS through the integration of a finer mesh and improved fin geometry, and refining fan speed, leading to enhanced cooling efficiency in computational simulations
 
 ### Conferences & Awards
 - International Thermal Spray Conference (ITSC)<br>Presented research and published a journal paper
