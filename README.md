@@ -14,7 +14,7 @@ Engineered a thermal system for three jacketed reactors to produce a pharmaceuti
 Designed a 15,000 US gallon process fluid storage tank, optimized for safety and cost, following ASME Pressure Vessel Code standards
 
 - Heat Sink Design for Electronic Chip Cooling<br>
-Reduced electronic chip temperature by optimizing heat sink design using ANSYS through the integration of a finer mesh and improved fin geometry, and refining fan speed, leading to enhanced cooling efficiency in computational simulations
+Reduced electronic chip temperature by optimizing heat sink design using ANSYS through the integration of a finer mesh, improved fin geometry, and refining fan speed, leading to enhanced cooling efficiency in computational simulations
 
 - Shell and Tube HX Design
 Designed a shell and tube heat exchanger for cooling Therminol 59, calculating thermal and mechanical parameters (TEMA Class R, ASME Code) to achieve a temperature drop from 350℉ to 190℉, resulting in a unit with 283 tubes, 566 passes, and a total weight of 12,229.81 pounds, with a 5.54% error in heat transfer coefficient calculations
