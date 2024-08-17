@@ -2,6 +2,8 @@
 
 ### One of My Projects for Viewing
 - [Project: Fluid Velocity Sensor](Portfolio.pdf)
+- [Project: Thermal System Design](Thermal System Design.pdf)
+- [Project: Heat Sink Design](Heat Sink.pdf)
 
 ### My Projects
 - Thesis: Design and Testing of Thermal Sprayed Sensors<br>
@@ -13,11 +15,11 @@ Engineered a thermal system for three jacketed reactors to produce a pharmaceuti
 - Fluid Storage Tank Design<br>
 Designed a 15,000 US gallon process fluid storage tank, optimized for safety and cost, following ASME Pressure Vessel Code standards
 
-- Heat Sink Design for Electronic Chip Cooling<br>
-Reduced electronic chip temperature by optimizing heat sink design using ANSYS through the integration of a finer mesh, improved fin geometry, and refining fan speed, leading to enhanced cooling efficiency in computational simulations
-
 - Shell and Tube HX Design<br>
 Team project that designed a shell and tube heat exchanger for cooling Therminol 59, calculating thermal and mechanical parameters (TEMA Class R, ASME Code) to achieve a temperature drop from 350℉ to 190℉, resulting in a unit with 283 tubes, 566 passes, and a total weight of 12,229.81 pounds, with a 5.54% error in heat transfer coefficient calculations
+
+- Heat Sink Design for Electronic Chip Cooling<br>
+Reduced electronic chip temperature by optimizing heat sink design using ANSYS through the integration of a finer mesh, improved fin geometry, and refining fan speed, leading to enhanced cooling efficiency in computational simulations
 
 ### Education
 - Master of Applied Science in Mechanical Engineering: &nbsp;&nbsp;University of Toronto - September 2024
