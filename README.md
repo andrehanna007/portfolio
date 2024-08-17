@@ -1,6 +1,6 @@
 # Mechanical Engineer Graduate
 
-### One of My Projects for Viewing
+### Some of My Projects for Viewing
 - [Project: Fluid Velocity Sensor](Portfolio.pdf)
 - [Project: Thermal System Design](Thermal System Design.pdf)
 - [Project: Heat Sink Design](Heat Sink.pdf)
