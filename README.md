@@ -1,7 +1,7 @@
 # Mechanical Engineer Graduate
 
 ### Some of My Projects for Viewing
-- [Project: Fluid Velocity Sensor](Portfolio.pdf) - The Fluid Channel Test Video: [Fluid Channel Test](https://youtu.be/dHgUwOLt_z8)
+- [Project: Fluid Velocity Sensor](Portfolio.pdf) - The Fluid Channel Test Video: [YouTube Link](https://youtu.be/dHgUwOLt_z8)
 - [Project: Thermal System Design](Thermal System Design.pdf)
 - [Project: Heat Sink Design](Heat Sink.pdf)
 
